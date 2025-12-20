@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "527407476731",
+    "project_id": "shopping-app-flutter-18281",
+    "storage_bucket": "shopping-app-flutter-18281.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527407476731:android:514b62f190243577a4e55e",
+        "android_client_info": {
+          "package_name": "com.example.shopping_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527407476731-0dhep3eq5db1ti3oe6ghkp0lbpl01bia.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8Vh5d6VN30rG8bsI5g9_qKK9OtFxwkjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527407476731-0dhep3eq5db1ti3oe6ghkp0lbpl01bia.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "527407476731-ev5617jjub6n6d9t69v2mecd7b9ujbcb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.shoppingApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
